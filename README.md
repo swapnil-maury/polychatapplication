@@ -126,8 +126,7 @@ This separation ensures clean, maintainable, and scalable code.
 
 ## 📈 Future Enhancements
 
-- 👤 User authentication  
-- 💾 Persistent chat history  
+- 👤 User authentication   
 - 🤖 Advanced AI response tuning  
 - 🌍 Cloud deployment (Render / Vercel)  
 
